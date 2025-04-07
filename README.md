@@ -1,15 +1,14 @@
-# 🧠 Bitcoin Quiz App
+# Bitcoin Quiz App 🧠⚡
 
-This is a beginner-friendly interactive quiz app built in Python to help users test their knowledge about Bitcoin and its history! 📚💰
+A fun and interactive quiz app built with Python and Streamlit to test your Bitcoin knowledge!
 
-## 🔧 Features
-- Multiple-choice questions about Bitcoin
-- Tracks user score
-- Built using pure Python
-- Great for learning and fun!
+## Features
+- Multiple choice Bitcoin questions
+- Instant feedback on correct/incorrect answers
+- Built using Python & Streamlit
 
-## 🚀 How to Run
-Make sure Python is installed, then run this command in terminal:
+## How to Run
 
 ```bash
-python3 bitcoin_quiz.py
+streamlit run bitcoin_quiz.py
+
